@@ -1,4 +1,4 @@
-# ProductFront
+# ProductFront - Dobány Norbert - Szoft II/1/N
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
 
