@@ -1,0 +1,12 @@
+{
+    "TITLE": "Termék Leltár",
+    "NAME": "Név",
+    "CATEGORY": "Kategória",
+    "DESCRIPTION": "Leírás",
+    "PRICE": "Ár",
+    "ADD": "Hozzáad",
+    "UPDATE": "Frissítés",
+    "DELETE": "Törlés",
+    "ACTIONS": "Műveletek"
+  }
+  
